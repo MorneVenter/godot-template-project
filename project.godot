@@ -13,6 +13,15 @@ config_version=4
 config/name="GodotStarter"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=1920
+window/size/height=1080
+window/size/resizable=false
+window/size/borderless=true
+window/size/fullscreen=true
+window/stretch/aspect="keep"
+
 [editor]
 
 script_templates_search_path="res://.script_templates"
